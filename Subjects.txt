@@ -10,6 +10,8 @@ Servlets
 Rest API
 GIT Hub
 
+Hibernate
+Spring Boot
 
 thank you:)
 Final Copy

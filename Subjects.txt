@@ -1,0 +1,7 @@
+
+welcome to Subjects text
+
+Java
+Python
+ReactJS
+JDBC

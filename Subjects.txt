@@ -5,3 +5,7 @@ Java
 Python
 ReactJS
 JDBC
+
+Servlets
+Rest API
+GIT Hub
